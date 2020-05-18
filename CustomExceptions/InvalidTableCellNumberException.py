@@ -1,0 +1,2 @@
+class InvalidTableCellNumberException(Exception):
+    pass
